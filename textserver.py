@@ -18,7 +18,7 @@ class TextServer:
     self.service = service
     self.request_data = {
       'username':'max.villalba',
-      'password':'eNROCADA123.',
+      'password':'passwd',
       'language': 'en',
       'output': 'json',
       'interactive':'1' 
