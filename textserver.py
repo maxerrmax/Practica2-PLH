@@ -17,9 +17,9 @@ class TextServer:
   def __init__(self, user, pwd, service='morpho'):
     self.service = service
     self.request_data = {
-      'username':'max.villalba',
+      'username':'user',
       'password':'passwd',
-      'language': 'en',
+      'language': 'en', 
       'output': 'json',
       'interactive':'1' 
     }
